@@ -1,4 +1,4 @@
-# 📖 AI News Agent (Drone Industry)
+# AutoNews Agent: AI-Powered News Curation and Social Media Publishing (Drone Industry)
 ## Overview
 
 This project automates the full pipeline of discovering, summarizing, formatting, and posting drone-related news articles to social media (LinkedIn/X). It runs daily at 09:00 AM IST and reduces manual effort by turning raw news into engaging, ready-to-post content.
